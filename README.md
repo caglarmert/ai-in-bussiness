@@ -7,10 +7,10 @@ A repository containing useful information about Artificial Intelligence, Machin
 
 - [Official Resources](#official-resources)
 - [Community Resources](#community-resources)
-  - [Artificial Intelligence](#Artificial Intelligence)
-  - [Machine Learning](#Machine Learning)
-  - [Deep Learning](#Deep Learning)
-  - [Reinforcement Learning](#Reinforcement Learning)
+  - [Artificial Intelligence](#Artificial-Intelligence)
+  - [Machine Learning](#Machine-Learning)
+  - [Deep Learning](#Deep-Learning)
+  - [Reinforcement Learning](#Reinforcement-Learning)
 
 ## Official Resources
 
