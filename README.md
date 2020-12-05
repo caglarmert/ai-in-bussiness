@@ -22,7 +22,7 @@ A repository containing useful information about Artificial Intelligence, Machin
 
 |Topic|  Small Description | Link | Contributor |
 |--|--|--|--|--|
-| Advances in AI| Newsletter with brief description of things happening around AI / ML world, often provides links to working code repositories exemplifying particular technique / phenomenon| https://thesequence.substack.com/ | Maciej Soltysiak |
+| Advances in AI| Newsletter with brief description of things h| https://thesequence.substack.com/ | Maciej Soltysiak |
 |Topic|  Small Description | Link | Contributor |
 
 
