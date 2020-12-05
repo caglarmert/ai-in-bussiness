@@ -26,6 +26,10 @@ A repository containing useful information about Artificial Intelligence, Machin
 |Topic|  Small Description | Link | Contributor |
 
 
+| Resource | Description | Link |
+| --- | --- | --- |
+| Advances in AI |  Newsletter with brief description |  https://thesequence.substack.com/  |
+
 ### Deep Learning
 
 
