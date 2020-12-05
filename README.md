@@ -21,7 +21,7 @@ A repository containing useful information about Artificial Intelligence, Machin
 ### Machine Learning
 
 |Topic|  Small Description | Link | Contributor |
-|--|--|--|--|--|
+|---|---|---|---|---|
 | Advances in AI| Newsletter with brief description of things h| https://thesequence.substack.com/ | Maciej Soltysiak |
 |Topic|  Small Description | Link | Contributor |
 
