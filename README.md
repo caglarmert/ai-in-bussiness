@@ -21,21 +21,21 @@
 
 ### Useful Links
 
-| Resource | Description | Link |
-| --- | --- | --- |
+| Resource | Description | 
+| --- | --- |
 | [Advances in AI](https://thesequence.substack.com/) |  Newsletter with brief description | 
 
 ### Courses
 
 
-| Resource | Description | Link |
-| --- | --- | --- |
+| Resource | Description | 
+| --- | --- | 
 | [Udacity](https://www.udacity.com) |  Online Courses | 
 | [Coursera](https://www.coursera.org) |  Online Courses | 
 | [Udemy](http://www.udemy.com) |  Online Courses | 
 
 ### Cheatsheets
 
-| Resource | Description | Link |
-| --- | --- | --- |
+| Resource | Description |
+| --- | --- | 
 | [CS cheatsheets](https://stanford.edu/~shervine/teaching/cs-229) |  Stanford Computer Science Course | 
