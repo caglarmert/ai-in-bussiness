@@ -7,30 +7,39 @@ A repository containing useful information about Artificial Intelligence, Machin
 
 - [Official Resources](#official-resources)
 - [Community Resources](#community-resources)
-  - [Artificial Intelligence](#Artificial-Intelligence)
-  - [Machine Learning](#Machine-Learning)
-  - [Deep Learning](#Deep-Learning)
-  - [Reinforcement Learning](#Reinforcement-Learning)
-
-## Official Resources
+  - [Books](#Books)
+  - [Useful Links](#Useful-Links)
+  - [Courses](#Courses)
+  - [Cheatsheets](#Cheatsheets)
 
 ## Community Resources
 
-### Artificial Intelligence
-
-### Machine Learning
+### Books
 
 | Resource | Description | Link |
 | --- | --- | --- |
 | Advances in AI |  Newsletter with brief description |  https://thesequence.substack.com/  |
 
-### Deep Learning
+### Useful Links
+
+| Resource | Description | Link |
+| --- | --- | --- |
+| Advances in AI |  Newsletter with brief description |  https://thesequence.substack.com/  |
+
+### Courses
 
 
+| Resource | Description | Link |
+| --- | --- | --- |
+| Udacity |  Online Courses |  https://www.udacity.com  |
+| Coursera |  Online Courses |  https://www.coursera.org  |
+| Udemy |  Online Courses |  http://www.udemy.com  |
 
-### Reinforcement Learning
+### Cheatsheets
 
-
+| Resource | Description | Link |
+| --- | --- | --- |
+| CS cheatsheets |  Stanford Computer Science Course |  https://stanford.edu/~shervine/teaching/cs-229  |
 
 
 ### Documentation
