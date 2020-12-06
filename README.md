@@ -39,12 +39,3 @@
 | Resource | Description | Link |
 | --- | --- | --- |
 | CS cheatsheets |  Stanford Computer Science Course |  https://stanford.edu/~shervine/teaching/cs-229  |
-
-
-### Documentation
-
-> Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information
-
-## License
-
-[![Creative Commons License](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
