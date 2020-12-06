@@ -4,10 +4,10 @@
 
 - [Official Resources](#official-resources)
 - [Community Resources](#community-resources)
-  - [Books](#Books)
-  - [Useful Links](#Useful-Links)
-  - [Courses](#Courses)
-  - [Cheatsheets](#Cheatsheets)
+  - [Books](#books)
+  - [Useful Links](#useful-links)
+  - [Courses](#courses)
+  - [Cheatsheets](#cheatsheets)
 
 ## Community Resources
 
