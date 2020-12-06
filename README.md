@@ -13,29 +13,29 @@
 
 ### Books
 
-| Resource | Description | Link |
-| --- | --- | --- |
-| The Deep Learning Book |  Ian Goodfellow and Yoshua Bengio and Aaron Courville |  https://www.deeplearningbook.org/  |
-| Natural Language Processing with Python |  Steven Bird, Ewan Klein, and Edward Loper | http://www.nltk.org/book/ |
+| Resource | Description |
+| --- | --- |
+| [The Deep Learning Book](https://www.deeplearningbook.org/) |  Ian Goodfellow and Yoshua Bengio and Aaron Courville |
+| [Natural Language Processing with Python](http://www.nltk.org/book/) |  Steven Bird, Ewan Klein, and Edward Loper |
 
 
 ### Useful Links
 
 | Resource | Description | Link |
 | --- | --- | --- |
-| Advances in AI |  Newsletter with brief description |  https://thesequence.substack.com/  |
+| [Advances in AI](https://thesequence.substack.com/) |  Newsletter with brief description | 
 
 ### Courses
 
 
 | Resource | Description | Link |
 | --- | --- | --- |
-| Udacity |  Online Courses |  https://www.udacity.com  |
-| Coursera |  Online Courses |  https://www.coursera.org  |
-| Udemy |  Online Courses |  http://www.udemy.com  |
+| [Udacity](https://www.udacity.com) |  Online Courses | 
+| [Coursera](https://www.coursera.org) |  Online Courses | 
+| [Udemy](http://www.udemy.com) |  Online Courses | 
 
 ### Cheatsheets
 
 | Resource | Description | Link |
 | --- | --- | --- |
-| CS cheatsheets |  Stanford Computer Science Course |  https://stanford.edu/~shervine/teaching/cs-229  |
+| [CS cheatsheets](https://stanford.edu/~shervine/teaching/cs-229) |  Stanford Computer Science Course | 
