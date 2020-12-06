@@ -1,4 +1,4 @@
-# Awesome-AI-in-Bussiness
+# AI-in-Bussiness
 
 ## Contents
 
