@@ -1,7 +1,4 @@
-# awesome-ai-in-bussiness
-A repository containing useful information about Artificial Intelligence, Machine Learning, Deep Learning, Reinforcement Learning and their applications.
-
-> A curated list of awesome things related to Artificial Intelligence in Bussiness
+# Awesome-AI-in-Bussiness
 
 ## Contents
 
