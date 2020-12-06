@@ -18,7 +18,9 @@ A repository containing useful information about Artificial Intelligence, Machin
 
 | Resource | Description | Link |
 | --- | --- | --- |
-| Advances in AI |  Newsletter with brief description |  https://thesequence.substack.com/  |
+| The Deep Learning Book |  Ian Goodfellow and Yoshua Bengio and Aaron Courville |  https://www.deeplearningbook.org/  |
+| Natural Language Processing with Python |  Steven Bird, Ewan Klein, and Edward Loper | http://www.nltk.org/book/ |
+
 
 ### Useful Links
 
