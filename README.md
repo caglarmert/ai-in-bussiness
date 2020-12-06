@@ -2,14 +2,13 @@
 
 ## Contents
 
-- [Official Resources](#official-resources)
-- [Community Resources](#community-resources)
+- [Resources](#resources)
   - [Books](#books)
   - [Useful Links](#useful-links)
   - [Courses](#courses)
   - [Cheatsheets](#cheatsheets)
 
-## Community Resources
+## Resources
 
 ### Books
 
